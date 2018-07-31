@@ -8,5 +8,6 @@ Final Fantasy XIVの次元の狭間オメガ零式：シグマ編のマクロで
 [こちら](https://github.com/htppp/sigmascape/releases/download/1/sigma_macro.txt)
 よりダウンロードできます。
 
-実際のSSは以下のようになります。
+実際のSSは以下のようになります。  
+
 ![SS](./run_macro.png)
