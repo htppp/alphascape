@@ -10,4 +10,6 @@ Final Fantasy XIVの次元の狭間オメガ零式：アルファ編のマクロ
 
 実際のSSは以下のようになります。  
 
-![SS](./run.png)
+![SS](./1.png)
+
+![SS](./2.png)
